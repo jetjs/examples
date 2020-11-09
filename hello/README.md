@@ -2,7 +2,7 @@
 A simple "hello" application.
 
 # Instructions
-To start an application please follow simple steps below.
+To start an application please follow simple steps below:
 
 1. Clone a repository:
 ```
@@ -24,4 +24,4 @@ npm install
 npm start
 ```
 
-5. Open your app in the browser http://localhost:3000/.
+5. Open your application in the browser: http://localhost:3000/
