@@ -9,9 +9,9 @@ To start an application please follow simple steps below.
 git clone https://github.com/jetjs/examples.git
 ```
 
-2. Change working directory to "hello":
+2. Change working directory to "examples/hello":
 ```
-cd hello
+cd examples/hello
 ```
 
 3. Install Jet.js:

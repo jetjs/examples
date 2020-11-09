@@ -10,7 +10,7 @@
   "author": "Oleksandr Krayilo",
   "license": "ISC",
   "dependencies": {
-    "jetc": "^0.2.0",
+    "jetc": "^0.3.0",
     "jete": "^0.9.1",
     "jeti": "^0.6.4"
   }
