@@ -9,7 +9,7 @@ To start an application please follow simple steps below.
 git clone https://github.com/jetjs/examples.git
 ```
 
-2. Change working directory to a "hello":
+2. Change working directory to "hello":
 ```
 cd hello
 ```
@@ -19,7 +19,7 @@ cd hello
 npm install
 ```
 
-4. Start an application:
+4. Start application:
 ```
 npm start
 ```
