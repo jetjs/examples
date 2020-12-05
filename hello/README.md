@@ -2,7 +2,7 @@
 A simple "hello" application.
 
 # Instructions
-To start an application please follow simple steps below:
+To start an application, please follow the steps below:
 
 1. Clone a repository:
 ```
