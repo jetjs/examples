@@ -1,6 +1,6 @@
 {
   "name": "hello",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple \"hello\" application.",
   "main": "app.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "jetc": "^0.4.1",
-    "jete": "^0.9.2",
-    "jeti": "^0.7.1"
+    "jete": "^0.9.3",
+    "jeti": "^0.7.2"
   }
 }
