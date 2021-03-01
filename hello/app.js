@@ -1,7 +1,7 @@
 import {render} from 'jete';
 
 function App() {
-  return 'Hello!';
+  return <h1>Hello!</h1>;
 }
 
 render(
