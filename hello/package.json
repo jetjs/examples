@@ -1,17 +1,18 @@
 {
   "name": "hello",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple \"hello\" application.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bin/server.js"
+    "start": "jetc-server",
+    "build": "jetc-build"
   },
   "author": "Oleksandr Krayilo",
   "license": "ISC",
   "dependencies": {
-    "jetc": "^0.4.1",
-    "jete": "^0.9.3",
-    "jeti": "^0.7.2"
+    "jetc": "^0.4.3",
+    "jete": "^0.9.4",
+    "jeti": "^0.7.4"
   }
 }
